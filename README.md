@@ -17,3 +17,6 @@ The overall objective is to provide participants with hands-on experience and to
   - Advanced modelling approaches, such as models, such as GAMLSS and of the SHASH distribution
   - Transfer and prediction of normative modeling results to new and unseen sites and populations
 
+## Itinerary
+
+Overall time allocation: 4hrs
