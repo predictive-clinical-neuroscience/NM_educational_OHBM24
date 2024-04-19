@@ -20,3 +20,16 @@ The overall objective is to provide participants with hands-on experience and to
 ## Itinerary
 
 Overall time allocation: 4hrs
+
+1st time slot: Title: Introduction to normative modelling (Duration: 30min; Presenter: Charlotte Fraza; Format: Jupyter notebooks in  follow along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100% ) 
+
+2nd time slot: Title: Normative Models of Adolescent Executive Function Development Across Assessments and Datasets. (Duration: 40 min;  Presenter: Brenden Tervo-Clemmens; Format: Talk and Live Demonstration in RMarkdown in follow-along format; Programming language: R Language; Libraries and Toolboxes: various statistical R libraries, Degree of interactivity: 60%)
+
+3rd time slot: Title: Making longitudinal inferences using normative models. (Duration: 30 min; Presenter: Barbora Rehák Bučková; Format: Jupyter notebooks in  follow along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100%)
+
+4th time slot: Title: Charting life-course functional connectome using normative modeling. (Duration: 40min; Presenter Lianglong Sun; Format: Talk and Live Demonstration in  R and Markdown in follow-along format; Programming language: R Language; Libraries and Toolboxes: TBD; Degree of interactivity: 60%)
+
+5th time slot: Title: Methodological advances in normative modelling. (Duration: 30min; Presenter: Johanna M. M. Bayer; Format: Jupyter notebooks in  follow along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100% ) 
+
+6th time slot: Characterizing brain-body relationships using normative modeling. (Duration: 40min; Presenter: Ye Ella Tian; Format: Interactive Presentation; Programming language, Toolboxes and Libraries: N/A:;  Degree of interactivity: 20%)
+
