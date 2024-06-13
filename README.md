@@ -29,22 +29,43 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
 - Degree of interactivity: 50%.
 
-2. Normative Models of Adolescent Executive Function Development Across Assessments and Datasets.
-   - Duration: 40 min;
-   - Presenter: Brenden Tervo-Clemmens;
-   - Format: Talk and Live Demonstration in RMarkdown in follow-along format
-   - Programming language: R Language;
-   - Libraries and Toolboxes: various statistical R libraries,
-   - Degree of interactivity: 60%
+## 2. Normative Models of Adolescent Executive Function Development Across Assessments and Datasets.
+- Duration: 40 min;
+- Presenter: Brenden Tervo-Clemmens;
+- Format: Talk and Live Demonstration in RMarkdown in follow-along format
+- Programming language: R Language;
+- Libraries and Toolboxes: various statistical R libraries,
+- Degree of interactivity: 60%
 
-3rd time slot: Title: Making longitudinal inferences using normative models. (Duration: 30 min; Presenter: Barbora Rehák Bučková; Format: Jupyter notebooks in  follow-along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard Python libraries;  Degree of interactivity: 100%)
+## 3. Making longitudinal inferences using normative models. 
+- Duration: 30 min;
+- Presenter: Barbora Rehák Bučková;
+- Format: Jupyter notebooks in  follow-along format;
+- Programming language: Python;
+- Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
+- Degree of interactivity: 100%)
 
-4th time slot: Title: Charting life-course functional connectome using normative modeling. (Duration: 40min; Presenter Lianglong Sun; Format: Talk and Live Demonstration in  R and Markdown in follow-along format; Programming language: R Language; Libraries and Toolboxes: TBD; Degree of interactivity: 60%)
+## 4. Charting life-course functional connectome using normative modeling. 
+- Duration: 40min;
+- Presenter Lianglong Sun; Format:
+- Talk and Live Demonstration in  R and Markdown in follow-along format;
+- Programming language: R Language;
+- Libraries and Toolboxes: TBD;
+- Degree of interactivity: 60%)
 
-5th time slot: Title: Methodological advances in normative modelling: Site effect correction. (Duration: 30min; Presenter: Johanna M. M. Bayer; Format: Jupyter notebooks in  follow-along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100% ) 
-Open the tutorial here: <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
+## 5. Methodological advances in normative modelling: Site effect correction. Open the tutorial here: <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+- Duration: 30min;
+- Presenter:Johanna M. M. Bayer;
+- Format: Jupyter notebooks in  follow-along format;
+- Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;
+- Degree of interactivity: 100% ) 
 
-6th time slot: Characterizing brain-body relationships using normative modeling. (Duration: 40min; Presenter: Ye Ella Tian; Format: Interactive Presentation; Programming language, Toolboxes and Libraries: N/A:;  Degree of interactivity: 20%)
+
+## 6. Characterizing brain-body relationships using normative modeling. 
+- Duration: 40min; Presenter: Ye Ella Tian;
+- Format: Interactive Presentation;
+- Programming language, Toolboxes and Libraries: N/A:;
+- Degree of interactivity: 20%)
 
