@@ -21,8 +21,13 @@ The overall objective is to provide participants with hands-on experience and to
 
 Overall time allocation: 4hrs
 
-1st time slot: Title: Introduction to normative modelling and applying pre-trained normative models
-Duration: 30min; Presenter: Charlotte Fraza; Format: Jupyter notebooks in  follow-along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard Python libraries;  Degree of interactivity: 50%.
+## 1st time slot: Title: Introduction to normative modelling and applying pre-trained normative models
+- Duration: 30min; 
+- Presenter: Charlotte Fraza;
+- Format: Jupyter notebooks in  follow-along format;
+- Programming language: Python;
+- Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
+- Degree of interactivity: 50%.
 
 2nd time slot: Title: Normative Models of Adolescent Executive Function Development Across Assessments and Datasets. (Duration: 40 min;  Presenter: Brenden Tervo-Clemmens; Format: Talk and Live Demonstration in RMarkdown in follow-along format; Programming language: R Language; Libraries and Toolboxes: various statistical R libraries, Degree of interactivity: 60%)
 
