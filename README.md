@@ -53,9 +53,11 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: TBD;
 - Degree of interactivity: 60%)
 
-## 5. Methodological advances in normative modelling: Site effect correction. Open the tutorial here: <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
+## 5. Methodological advances in normative modelling: Site effect correction. 
+<a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Duration: 30min;
 - Presenter:Johanna M. M. Bayer;
 - Format: Jupyter notebooks in  follow-along format;
