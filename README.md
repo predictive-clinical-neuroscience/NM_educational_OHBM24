@@ -30,7 +30,10 @@ Duration: 30min; Presenter: Charlotte Fraza; Format: Jupyter notebooks in  follo
 
 4th time slot: Title: Charting life-course functional connectome using normative modeling. (Duration: 40min; Presenter Lianglong Sun; Format: Talk and Live Demonstration in  R and Markdown in follow-along format; Programming language: R Language; Libraries and Toolboxes: TBD; Degree of interactivity: 60%)
 
-5th time slot: Title: Methodological advances in normative modelling. (Duration: 30min; Presenter: Johanna M. M. Bayer; Format: Jupyter notebooks in  follow-along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100% ) 
+5th time slot: Title: Methodological advances in normative modelling: Site effect correction. (Duration: 30min; Presenter: Johanna M. M. Bayer; Format: Jupyter notebooks in  follow-along format; Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;  Degree of interactivity: 100% ) 
+Open the tutorial here: <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 6th time slot: Characterizing brain-body relationships using normative modeling. (Duration: 40min; Presenter: Ye Ella Tian; Format: Interactive Presentation; Programming language, Toolboxes and Libraries: N/A:;  Degree of interactivity: 20%)
 
