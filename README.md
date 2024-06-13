@@ -61,7 +61,8 @@ Overall time allocation: 4hrs
 - Duration: 30min;
 - Presenter:Johanna M. M. Bayer;
 - Format: Jupyter notebooks in  follow-along format;
-- Programming language: Python; Libraries and Toolboxes: PCNToolkit and various standard python libraries;
+- Programming language: Python;
+- Libraries and Toolboxes: PCNToolkit and various standard python libraries;
 - Degree of interactivity: 100% ) 
 
 
