@@ -1,5 +1,8 @@
 # Normative modelling educational course OHBM 2024 🧠🧠
 
+<img width="501" alt="image" src="https://github.com/predictive-clinical-neuroscience/NM_educational_OHBM24/assets/23728822/c3e8a638-ae40-4f66-a8ec-a818c6660706">
+
+
 Normative modelling has revolutionized our approach to identifying effects in neuroimaging, enabling a shift from group-level statistics to subject-level inferences. The use of extensive population data, now readily accessible, allows for a more comprehensive understanding of healthy brain development as well as our understanding of psychiatric and neurological conditions. Beyond individualized predictions, advantages of normative modelling include the transfer of predictions to unseen sites, data harmonization, and flexibility and adaptability to various brain imaging data types and distributions. However, the considerable power of these models requires careful handling and interpretation.
  
 This course will educate attendees on the theoretical background and the fitting, use and interpretation of normative models. While the course will be taught with data provided, a strong focus will be on the transferability of skills to participants’ own data and research.
