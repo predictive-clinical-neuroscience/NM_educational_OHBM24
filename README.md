@@ -25,6 +25,10 @@ The overall objective is to provide participants with hands-on experience and to
 Overall time allocation: 4hrs
 
 ## 1.Introduction to normative modelling and applying pre-trained normative models
+<a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot1_Fraza/1_fit_normative_models.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 - Duration: 30min; 
 - Presenter: Charlotte Fraza;
 - Format: Jupyter notebooks in  follow-along format;
