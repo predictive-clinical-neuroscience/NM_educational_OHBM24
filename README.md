@@ -28,9 +28,9 @@ The overall objective is to provide participants with hands-on experience and to
 
 Overall time allocation: 4hrs
 
-## 0. Sette
+## 0. Setteling in: 9am - 9.10am 
 
-## 1.Introduction to normative modelling and applying pre-trained normative models
+## 1.Introduction to normative modelling and applying pre-trained normative models: 9.10am - 9.40am
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot1_Fraza/1_fit_normative_models.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -42,7 +42,7 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
 - Degree of interactivity: 50%.
 
-## 2. Normative Models of Adolescent Executive Function Development Across Assessments and Datasets.
+## 2. Normative Models of Adolescent Executive Function Development Across Assessments and Datasets: 9.40am - 10.20am
 - Duration: 40 min;
 - Presenter: Brenden Tervo-Clemmens;
 - Format: Talk and Live Demonstration in RMarkdown in follow-along format
@@ -50,7 +50,7 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: various statistical R libraries,
 - Degree of interactivity: 60%
 
-## 3. Making longitudinal inferences using normative models. 
+## 3. Making longitudinal inferences using normative models:  10.20am - 10.50am 
 - Duration: 30 min;
 - Presenter: Barbora Rehák Bučková;
 - Format: Jupyter notebooks in  follow-along format;
@@ -58,7 +58,10 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
 - Degree of interactivity: 100%)
 
-## 4. Charting life-course functional connectome using normative modeling. 
+## Break: 10.50am - 11.10am
+- Duration: 20 min
+
+## 4. Charting life-course functional connectome using normative modeling: 11.10am - 11.50am
 - Duration: 40min;
 - Presenter Lianglong Sun; Format:
 - Talk and Live Demonstration in  R and Markdown in follow-along format;
@@ -66,7 +69,7 @@ Overall time allocation: 4hrs
 - Libraries and Toolboxes: TBD;
 - Degree of interactivity: 60%)
 
-## 5. Methodological advances in normative modelling: Site effect correction. 
+## 5. Methodological advances in normative modelling: Site effect correction: 11.50am - 12.20pm 
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -79,7 +82,7 @@ Overall time allocation: 4hrs
 - Degree of interactivity: 100% ) 
 
 
-## 6. Characterizing brain-body relationships using normative modeling. 
+## 6. Characterizing brain-body relationships using normative modeling: 12.20pm - 1pm
 - Duration: 40min; Presenter: Ye Ella Tian;
 - Format: Interactive Presentation;
 - Programming language, Toolboxes and Libraries: N/A:;
