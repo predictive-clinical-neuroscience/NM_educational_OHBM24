@@ -1,5 +1,9 @@
 # Normative modelling educational course OHBM 2024 🧠🧠
 
+### Date, location and time :
+
+Sunday, 23rd of June, 9am-1pm GMT+9, Seoul, South Korea.
+
 <img width="501" alt="image" src="https://github.com/predictive-clinical-neuroscience/NM_educational_OHBM24/assets/23728822/c3e8a638-ae40-4f66-a8ec-a818c6660706">
 
 
@@ -23,6 +27,8 @@ The overall objective is to provide participants with hands-on experience and to
 ## Colloquium
 
 Overall time allocation: 4hrs
+
+## 0. Sette
 
 ## 1.Introduction to normative modelling and applying pre-trained normative models
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot1_Fraza/1_fit_normative_models.ipynb">
