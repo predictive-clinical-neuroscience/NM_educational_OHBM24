@@ -68,6 +68,7 @@ Overall time allocation: 4hrs
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot4_Sun/GAMLSS_model_fitting.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Duration: 40min;
 - Presenter Lianglong Sun; Format:
 - Talk and Live Demonstration in  R and Markdown in follow-along format;
