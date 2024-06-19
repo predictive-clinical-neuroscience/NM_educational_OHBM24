@@ -65,12 +65,15 @@ Overall time allocation: 4hrs
 - Duration: 20 min
 
 ## 4. Charting life-course functional connectome using normative modeling: 11.10am - 11.50am
+<a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot4_Sun/GAMLSS_model_fitting.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 - Duration: 40min;
 - Presenter Lianglong Sun; Format:
 - Talk and Live Demonstration in  R and Markdown in follow-along format;
 - Programming language: R Language;
-- Libraries and Toolboxes: TBD;
-- Degree of interactivity: 60%)
+- Libraries and Toolboxes: R package: gamlss;
+- Degree of interactivity: 20%)
 
 ## 5. Methodological advances in normative modelling: Site effect correction: 11.50am - 12.20pm 
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot5_Bayer/03_HBR_site_effects_normative_modelling.ipynb">
