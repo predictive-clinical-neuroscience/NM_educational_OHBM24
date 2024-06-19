@@ -54,6 +54,7 @@ Overall time allocation: 4hrs
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot3_RehakBuckova/Long_NM_protocol.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Duration: 30 min;
 - Presenter: Barbora Rehák Bučková;
 - Format: Jupyter notebooks in  follow-along format;
