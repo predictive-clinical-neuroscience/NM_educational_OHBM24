@@ -28,7 +28,7 @@ The overall objective is to provide participants with hands-on experience and to
   - **Advanced modelling approaches**, such as using GAMLSS, Bayesian Linear Regression and Hierarchical Bayesian Regression models.
   - **Site effect correction:** Transfer and prediction of normative modeling results to new and unseen sites and populations
 
-## Colloquium
+## Curriculum
 
 Overall time allocation: 4hrs
 
