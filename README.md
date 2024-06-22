@@ -21,7 +21,7 @@ The overall objective is to provide participants with hands-on experience and to
 - We will further illustrate advanced and applied uses of normative modelling. These will include:
   - Longitudinal models
   - Application to diverse brain imaging measures, such as functional connectivity and in relation with brain/body age
-  - Advanced modelling approaches, such as models, such as GAMLSS and of the SHASH distribution
+  - Advanced modelling approaches, such as models, such as the GAMLSS distribution
   - Transfer and prediction of normative modeling results to new and unseen sites and populations
 
 ## Colloquium
