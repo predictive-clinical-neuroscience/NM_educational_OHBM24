@@ -20,9 +20,12 @@ The overall objective is to provide participants with hands-on experience and to
 - Advanced theory and applications of normative modelling
 - We will further illustrate advanced and applied uses of normative modelling. These will include:
   - Longitudinal models
-  - Application to diverse brain imaging and non-imaging measures, such as functional connectivity and in relation with brain/body age and executive functioning.
-  - Advanced modelling approaches, such as using GAMLSS models.
-  - Transfer and prediction of normative modeling results to new and unseen sites and populations
+  - Application to diverse brain imaging and non-imaging measures, such as
+       - the functional connectone 
+       - executive functioning
+       - and in relation with brain/body age 
+  - Advanced modelling approaches, such as using GAMLSS, Bayesian Linear Regression and Hierrachiacl Bayesian Regression  models.
+  - Site effect correction: Transfer and prediction of normative modeling results to new and unseen sites and populations
 
 ## Colloquium
 
