@@ -14,15 +14,16 @@ This course will educate attendees on the theoretical background and the fitting
 The overall objective is to provide participants with hands-on experience and tools to be able to transfer knowledge and to use normative modelling on their own data.
 
 ## Objectives
-- Introduction to Normative Modeling: We aim to acquaint participants with the concept of normative modelling and showcase situations where its application is both appropriate and beneficial.
-- Comprehensive Understanding of Methods: We will introduce the most common normative modelling methods, providing practical insights into their implementation. This encompasses a spectrum of approaches, ranging from purely statistical to Bayesian methods, with a focus on highlighting their respective strengths and potential challenges.
-- Visualization and interpretation of Results: We will guide participants in understanding and interpreting the results of the models, emphasizing their relevance in subsequent analyses. Special attention will be given to creating visualizations and to  illuminating potential limitations that participants should be aware of.
-- Advanced theory and applications of normative modelling
+- **Introduction to Normative Modeling:** We aim to acquaint participants with the concept of normative modelling and showcase situations where its application is both appropriate and beneficial.
+- **Comprehensive Understanding of Methods:** We will introduce the most common normative modelling methods, providing practical insights into their implementation. This encompasses a spectrum of approaches, ranging from purely statistical to Bayesian methods, with a focus on highlighting their respective strengths and potential challenges.
+- **Visualization and interpretation of Results:** We will guide participants in understanding and interpreting the results of the models, emphasizing their relevance in subsequent analyses. Special attention will be given to creating visualizations and to  illuminating potential limitations that participants should be aware of.
+
+**Advanced theory and applications of normative modelling:**
 - We will further illustrate advanced and applied uses of normative modelling. These will include:
-  - Longitudinal models
+  - **Longitudinal models**
   - Application to diverse brain imaging and non-imaging measures, such as
-       - the functional connectone 
-       - executive functioning
+       - **the functional connectone**
+       - **executive functioning**
        - and in relation with brain/body age 
   - Advanced modelling approaches, such as using GAMLSS, Bayesian Linear Regression and Hierrachiacl Bayesian Regression  models.
   - Site effect correction: Transfer and prediction of normative modeling results to new and unseen sites and populations
