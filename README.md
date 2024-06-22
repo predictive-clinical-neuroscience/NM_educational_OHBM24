@@ -11,7 +11,7 @@ Normative modelling has revolutionized our approach to identifying effects in ne
  
 This course will educate attendees on the theoretical background and the fitting, use and interpretation of normative models. While the course will be taught with data provided, a strong focus will be on the transferability of skills to participants’ own data and research.
 
-The overall objective is to provide participants with hands-on experience and tools to be able to transfer knowledge and to use normative modelling on their own data.
+The overall objective is to provide participants with hands-on experience and tools to be able to transfer knowledge and use normative modelling on their own data.
 
 ## Objectives
 - **Introduction to Normative Modeling:** We aim to acquaint participants with the concept of normative modelling and showcase situations where its application is both appropriate and beneficial.
@@ -22,7 +22,7 @@ The overall objective is to provide participants with hands-on experience and to
 - We will further illustrate advanced and applied uses of normative modelling. These will include:
   - **Longitudinal models**
   - Application to diverse brain imaging and non-imaging measures, such as
-       - **the functional connectone**
+       - **the functional connectome**
        - **executive functioning**
        - and in **relation with brain/body age** 
   - **Advanced modelling approaches**, such as using GAMLSS, Bayesian Linear Regression and Hierarchical Bayesian Regression models.
@@ -32,9 +32,9 @@ The overall objective is to provide participants with hands-on experience and to
 
 Overall time allocation: 4hrs
 
-## 0. Setteling in: 9am - 9.10am 
+## 0. Settling in: 9am - 9.10am 
 
-## 1.Introduction to normative modelling and applying pre-trained normative models: 9.10am - 9.40am
+## 1. Introduction to normative modelling and applying pre-trained normative models: 9.10am - 9.40am
 <a target="_blank" href="https://colab.research.google.com/github/predictive-clinical-neuroscience/NM_educational_OHBM24/blob/main/slot1_Fraza/1_fit_normative_models.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -90,7 +90,7 @@ Overall time allocation: 4hrs
 - Presenter: Johanna M. M. Bayer;
 - Format: Jupyter notebooks in  follow-along format;
 - Programming language: Python;
-- Libraries and Toolboxes: PCNToolkit and various standard python libraries;
+- Libraries and Toolboxes: PCNToolkit and various standard Python libraries;
 - Degree of interactivity: 100% ) 
 
 
