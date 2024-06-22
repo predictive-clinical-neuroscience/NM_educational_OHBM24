@@ -24,9 +24,9 @@ The overall objective is to provide participants with hands-on experience and to
   - Application to diverse brain imaging and non-imaging measures, such as
        - **the functional connectone**
        - **executive functioning**
-       - and in relation with brain/body age 
-  - Advanced modelling approaches, such as using GAMLSS, Bayesian Linear Regression and Hierrachiacl Bayesian Regression  models.
-  - Site effect correction: Transfer and prediction of normative modeling results to new and unseen sites and populations
+       - and in **relation with brain/body age** 
+  - **Advanced modelling approaches**, such as using GAMLSS, Bayesian Linear Regression and Hierarchical Bayesian Regression models.
+  - **Site effect correction:** Transfer and prediction of normative modeling results to new and unseen sites and populations
 
 ## Colloquium
 
