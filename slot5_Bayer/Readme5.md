@@ -14,3 +14,7 @@ You can open this tutorial here:  <a target="_blank" href="https://colab.researc
 
 # Further reading: 
 You can learn more about batch effects here:
+
+Bayer, J. M. M., Thompson, P. M., Ching, C. R. K., Liu, M., Chen, A., Panzenhagen, A. C., Jahanshad, N., Marquand, A., Schmaal, L., & Sämann, P. G. (2022). Site effects how-to and when: An overview of retrospective techniques to accommodate site effects in multi-site neuroimaging analyses. Frontiers in Neurology, 13, 923988.
+
+​
